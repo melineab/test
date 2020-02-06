@@ -13,6 +13,6 @@ def fib(num):
 
 
 if __name__ == "__main__":
-    fib_num = fib(10)
+    fib(10)
     print('good work')
 
