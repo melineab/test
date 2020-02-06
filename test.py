@@ -14,5 +14,5 @@ def fib(num):
 
 if __name__ == "__main__":
     fib_num = fib(10)
-    print('god work')
+    print('good work')
 
